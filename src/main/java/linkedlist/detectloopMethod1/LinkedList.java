@@ -1,5 +1,7 @@
 package linkedlist.detectloopMethod1;
 
+import linkedlist.Node;
+
 public class LinkedList {
   static Node head;
 

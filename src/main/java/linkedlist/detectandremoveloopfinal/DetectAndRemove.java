@@ -1,5 +1,7 @@
 package linkedlist.detectandremoveloopfinal;
 
+import linkedlist.Node;
+
 public class DetectAndRemove {
 
   public static void printList(Node node) {
