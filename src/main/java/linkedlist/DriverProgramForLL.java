@@ -57,12 +57,19 @@ public class DriverProgramForLL {
 //    System.out.println("After inserting data to the 1st position : ");
 //    PrintLinkedList.printList(modifiedList);
 
-    Node insertInMiddle = InsertIntoLinkedList.insertInLinkedList(head, 80, 4);
-    System.out.println("After inserting in middle : ");
-    PrintLinkedList.printList(insertInMiddle);
+//    Node insertInMiddle = InsertIntoLinkedList.insertInLinkedList(head, 80, 4);
+//    System.out.println("After inserting in middle : ");
+//    PrintLinkedList.printList(insertInMiddle);
 //
 //    System.out.println("Inserting at the end : ");
 //    Node insertAtEnd = InsertIntoLinkedList.insetAtEnd(head, 820);
 //    PrintLinkedList.printList(insertAtEnd);
+//    head=DeletingInLinkedList.deleteFirstNode(head);
+//    System.out.println("After deleting 1st node : ");
+//    PrintLinkedList.printList(head);
+    head=DeletingInLinkedList.deleteLastNode(head);
+    System.out.println("After deleting last node : ");
+    PrintLinkedList.printList(head);
+
   }
 }
