@@ -21,7 +21,6 @@ public class InsertIntoLinkedList {
       }
       ptr2.next = newNode;
       newNode.next = ptr1;
-      head = ptr2;
     }
 
     return head;
