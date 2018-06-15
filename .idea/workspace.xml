@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dbfd2265-5f78-4cdc-a6d2-395c0bf8b822" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/linkedlist/InsertNodeInSingleLinkedList/InsertIntoLinkedList.java" afterPath="$PROJECT_DIR$/src/main/java/linkedlist/InsertNodeInSingleLinkedList/InsertIntoLinkedList.java" />
-      <change beforePath="$PROJECT_DIR$/target/classes/linkedlist/detectandremoveloopfinal/DetectAndRemove.class" afterPath="$PROJECT_DIR$/target/classes/linkedlist/detectandremoveloopfinal/DetectAndRemove.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/linkedlist/detectandremoveloopfinal/Node.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/linkedlist/detectloopMethod1/LinkedList.class" afterPath="$PROJECT_DIR$/target/classes/linkedlist/detectloopMethod1/LinkedList.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/linkedlist/detectloopMethod1/Node.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/linkedlist/detectloopMethod2/LinkedList.class" afterPath="$PROJECT_DIR$/target/classes/linkedlist/detectloopMethod2/LinkedList.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/linkedlist/detectloopMethod2/Node.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/linkedlist/MyTesting.java" afterPath="$PROJECT_DIR$/src/main/java/other/MyTesting.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/linkedlist/detectloopMethod1/LinkedList.java" afterPath="$PROJECT_DIR$/src/main/java/linkedlist/detectloopMethod1/LinkedList.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="InsertIntoLinkedList.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/linkedlist/InsertNodeInSingleLinkedList/InsertIntoLinkedList.java">
+      <file leaf-file-name="LinkedList.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/linkedlist/detectloopMethod1/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-604">
-              <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="16" />
+            <state relative-caret-position="210">
+              <caret line="38" column="22" lean-forward="false" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -55,11 +49,12 @@
         <option value="$PROJECT_DIR$/src/main/java/other/HanoiTower.java" />
         <option value="$PROJECT_DIR$/src/main/java/linkedlist/detectandremoveloopfinal/DetectAndRemove.java" />
         <option value="$PROJECT_DIR$/src/main/java/linkedlist/Node.java" />
-        <option value="$PROJECT_DIR$/src/main/java/linkedlist/detectloopMethod1/LinkedList.java" />
         <option value="$PROJECT_DIR$/src/main/java/linkedlist/detectloopMethod2/LinkedList.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/other/JavaStreams.java" />
         <option value="$PROJECT_DIR$/src/main/java/linkedlist/InsertNodeInSingleLinkedList/InsertIntoLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/other/MyTesting.java" />
+        <option value="$PROJECT_DIR$/src/main/java/linkedlist/detectloopMethod1/LinkedList.java" />
       </list>
     </option>
   </component>
@@ -192,7 +187,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="linkedlist" type="462c0819:PsiDirectoryNode" />
-              <item name="detectloopMethod2" type="462c0819:PsiDirectoryNode" />
+              <item name="detectloopMethod1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algoritms" type="b2602c69:ProjectViewProjectNode" />
@@ -201,15 +196,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="linkedlist" type="462c0819:PsiDirectoryNode" />
-              <item name="InsertNodeInSingleLinkedList" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algoritms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="other" type="462c0819:PsiDirectoryNode" />
+              <item name="detectloopMethod2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algoritms" type="b2602c69:ProjectViewProjectNode" />
@@ -411,12 +398,12 @@
       <workItem from="1528132490695" duration="759000" />
       <workItem from="1528220368166" duration="3503000" />
       <workItem from="1528993622126" duration="6700000" />
-      <workItem from="1529002954552" duration="4352000" />
+      <workItem from="1529002954552" duration="4628000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17834000" />
+    <option name="totallyTimeSpent" value="18110000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -489,7 +476,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/linkedlist/MyTesting.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/other/MyTesting.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
@@ -524,7 +511,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/linkedlist/MyTesting.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/other/MyTesting.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
@@ -552,7 +539,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/linkedlist/MyTesting.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/other/MyTesting.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -573,21 +560,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/linkedlist/MyTesting.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/other/MyTesting.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/linkedlist/MyTesting.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/other/MyTesting.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/linkedlist/MyTesting.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/other/MyTesting.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -630,13 +617,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/linkedlist/MyTesting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/other/CheckIfArraySorted.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -655,13 +635,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="388">
           <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/linkedlist/detectloopMethod1/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" column="28" lean-forward="false" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -688,18 +661,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/linkedlist/detectloopMethod2/LinkedList.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/other/MyTesting.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="21" />
+        <state relative-caret-position="60">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/linkedlist/InsertNodeInSingleLinkedList/InsertIntoLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-604">
+        <state relative-caret-position="-506">
           <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/linkedlist/detectloopMethod2/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-547">
+          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/linkedlist/detectloopMethod1/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="38" column="22" lean-forward="false" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
           <folding />
         </state>
       </provider>

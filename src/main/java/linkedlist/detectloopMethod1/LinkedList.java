@@ -36,7 +36,7 @@ public class LinkedList {
       while (ptr2.next != loop && ptr2.next != ptr1) {
         ptr2 = ptr2.next;
       }
-      /* If ptr2 reahced ptr1 then there is a loop. So break the
+      /* If ptr2 reached ptr1 then there is a loop. So break the
       loop */
       if (ptr2.next == ptr1) {
         break;
