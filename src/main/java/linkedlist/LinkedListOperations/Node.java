@@ -1,4 +1,4 @@
-package linkedlist;
+package linkedlist.LinkedListOperations;
 
 public class Node {
     public int data;

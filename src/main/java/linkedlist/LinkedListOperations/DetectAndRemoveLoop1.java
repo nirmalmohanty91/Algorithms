@@ -1,12 +1,8 @@
-package linkedlist.detectloopMethod2;
+package linkedlist.LinkedListOperations;
 
-import linkedlist.Node;
-
-public class LinkedList {
-    static Node head;
-
+public class DetectAndRemoveLoop1 {
     // Function that detects loop in the list
-    int detectAndRemoveLoop(Node node) {
+    public static int detectAndRemoveLoop(Node node) {
         Node slow = node, fast = node;
         while (slow != null && fast != null && fast.next != null) {
             slow = slow.next;
@@ -22,7 +18,7 @@ public class LinkedList {
     }
 
     // Function to remove loop
-    void removeLoop(Node loop, Node head) {
+    private static void removeLoop(Node loop, Node head) {
         Node ptr1 = loop;
         Node ptr2 = loop;
 
@@ -60,27 +56,7 @@ public class LinkedList {
         ptr2.next = null;
     }
 
-    // Function to print the linked list
-    void printList(Node node) {
-        while (node != null) {
-            System.out.print(node.data + " ");
-            node = node.next;
-        }
-    }
 
-    // Driver program to test above functions
-    public static void main(String[] args) {
-        LinkedList list = new LinkedList();
-        list.head = new Node(50);
-        list.head.next = new Node(20);
-        list.head.next.next = new Node(15);
-        list.head.next.next.next = new Node(4);
-        list.head.next.next.next.next = new Node(10);
 
-        // Creating a loop for testing
-        head.next.next.next.next.next = head.next.next;
-        list.detectAndRemoveLoop(head);
-        System.out.println("Linked List after removing loop : ");
-        list.printList(head);
-    }
+
 }
