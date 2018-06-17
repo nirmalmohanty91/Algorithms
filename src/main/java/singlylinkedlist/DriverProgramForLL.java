@@ -1,6 +1,6 @@
-package linkedlist;
+package singlylinkedlist;
 
-import linkedlist.LinkedListOperations.*;
+import singlylinkedlist.LinkedListOperations.*;
 
 public class DriverProgramForLL {
   static Node head;
@@ -67,7 +67,7 @@ public class DriverProgramForLL {
     //    head=DeletingInLinkedList.deleteFirstNode(head);
     //    System.out.println("After deleting 1st node : ");
     //    PrintLinkedList.printList(head);
-    head = DeletingInLinkedList.deleteFromPosition(head, 2);
+    head = DeletingInLinkedList.deleteFromPosition(head, 5);
     System.out.println("After from position node : ");
     PrintLinkedList.printList(head);
   }

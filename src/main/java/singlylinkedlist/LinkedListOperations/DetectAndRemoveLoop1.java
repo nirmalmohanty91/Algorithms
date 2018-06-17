@@ -1,4 +1,4 @@
-package linkedlist.LinkedListOperations;
+package singlylinkedlist.LinkedListOperations;
 
 public class DetectAndRemoveLoop1 {
     // Function that detects loop in the list

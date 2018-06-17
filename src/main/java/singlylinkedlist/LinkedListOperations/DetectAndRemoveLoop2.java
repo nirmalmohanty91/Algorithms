@@ -1,4 +1,4 @@
-package linkedlist.LinkedListOperations;
+package singlylinkedlist.LinkedListOperations;
 
 public class DetectAndRemoveLoop2 {
 
