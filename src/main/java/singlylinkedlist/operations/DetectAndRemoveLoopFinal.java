@@ -1,4 +1,4 @@
-package singlylinkedlist.LinkedListOperations;
+package singlylinkedlist.operations;
 
 public class DetectAndRemoveLoopFinal {
 

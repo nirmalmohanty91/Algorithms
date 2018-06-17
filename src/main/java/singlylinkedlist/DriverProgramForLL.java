@@ -1,6 +1,6 @@
 package singlylinkedlist;
 
-import singlylinkedlist.LinkedListOperations.*;
+import singlylinkedlist.operations.*;
 
 public class DriverProgramForLL {
   static Node head;
