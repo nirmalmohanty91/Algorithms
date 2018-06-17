@@ -2,13 +2,13 @@ package singlylinkedlist;
 
 import singlylinkedlist.operations.*;
 
-public class DriverProgramForLL {
+public class DriverProgram {
   static Node head;
   static int i;
 
   // Driver Program to test all linked-list operations
   public static void main(String[] args) {
-    DriverProgramForLL list = new DriverProgramForLL();
+    DriverProgram list = new DriverProgram();
     // Inserting data into linked list
     list.head = new Node(50);
     list.head.next = new Node(20);
