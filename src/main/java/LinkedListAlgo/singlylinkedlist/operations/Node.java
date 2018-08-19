@@ -1,4 +1,4 @@
-package singlylinkedlist.operations;
+package LinkedListAlgo.singlylinkedlist.operations;
 
 public class Node {
     public int data;

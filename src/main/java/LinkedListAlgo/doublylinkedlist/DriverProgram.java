@@ -1,8 +1,8 @@
-package doublylinkedlist;
+package LinkedListAlgo.doublylinkedlist;
 
-import doublylinkedlist.operations.DLLNode;
-import doublylinkedlist.operations.InsertIntoDoublyLL;
-import doublylinkedlist.operations.PrintingDoublyLL;
+import LinkedListAlgo.doublylinkedlist.operations.DLLNode;
+import LinkedListAlgo.doublylinkedlist.operations.InsertIntoDoublyLL;
+import LinkedListAlgo.doublylinkedlist.operations.PrintingDoublyLL;
 
 public class DriverProgram {
   static DLLNode head;
@@ -17,7 +17,7 @@ public class DriverProgram {
 //Printing list
     PrintingDoublyLL.printDoublyLL(head);
     //Insert at beginning of the list
-    DLLNode modifiedList=InsertIntoDoublyLL.insetAtBeginning(head,5);
+    DLLNode modifiedList= InsertIntoDoublyLL.insetAtBeginning(head,5);
     PrintingDoublyLL.printDoublyLL(modifiedList);
 
 

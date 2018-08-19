@@ -1,4 +1,4 @@
-package doublylinkedlist.operations;
+package LinkedListAlgo.doublylinkedlist.operations;
 
 public class InsertIntoDoublyLL {
     // adding item at the beginning
